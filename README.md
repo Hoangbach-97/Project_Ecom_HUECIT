@@ -1,4 +1,13 @@
 # Project_Ecom_HUECIT
+Second-Author: Peter Hoàng Bách
+Shop Bán Linh Kiện Điện Tử-IoT
+#Shop Electronics Components-IoT
+Framework:Laravel 7
+PHP:7.3
+Package chính: Qr-simplecode, Messagebird, Laravel/Socialite...
+#Using Package : Qr-simplecode, Messagebird, Laravel/Socialite...
+Dùng Template: Coder India
+#Using Template:India Coder 
 
 
 ![qr](https://user-images.githubusercontent.com/75841838/124900361-30079f00-e00b-11eb-8fab-d007d8ccef68.PNG)
@@ -17,4 +26,5 @@
 ![sms](https://user-images.githubusercontent.com/75841838/124899684-8f18e400-e00a-11eb-873f-41420aefba50.PNG)
 ![tablemyadmin](https://user-images.githubusercontent.com/75841838/124898908-d05cc400-e009-11eb-9ed6-edb42c4db9ee.PNG)
 ![tbecommerce](https://user-images.githubusercontent.com/75841838/124898916-d2268780-e009-11eb-9136-cda2e0acecf4.png)
+
 
